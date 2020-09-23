@@ -33,3 +33,25 @@
 .card{
     margin:4%;
 }
+
+.footer{
+    padding: 10px;
+    background-color: rgb(193, 173, 209);
+}
+
+#test-cover-img{
+    width:100vw;
+    opacity:0.7;
+}
+
+.testimonial{
+    margin-top: 4%;
+}
+
+h5{
+    padding: 2px;
+}
+
+.test-content{
+    transform: translate(0,-20vh);
+}
