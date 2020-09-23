@@ -1,0 +1,35 @@
+.covercontainer{
+    background: url(images/cover.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+.cover{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.coverform,.jumbotron{
+    margin:4%;
+    font-weight: bold;
+}
+
+.top-dest{
+    margin-top: 2%;
+}
+
+.top-dest-img{
+    max-width: 28em;
+    margin:2%;
+    transition: transform 1s;
+}
+
+.top-dest-img:hover{
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    transform: scale(1.1);
+}
+
+.card{
+    margin:4%;
+}
